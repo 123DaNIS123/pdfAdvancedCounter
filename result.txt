@@ -1,0 +1,13 @@
+Format: A10 | Count: 0 | Size in px(72ppi): (74, 105) | Pages: set()
+Format: A9 | Count: 0 | Size in px(72ppi): (105, 147) | Pages: set()
+Format: A8 | Count: 0 | Size in px(72ppi): (147, 210) | Pages: set()
+Format: A7 | Count: 0 | Size in px(72ppi): (210, 298) | Pages: set()
+Format: A6 | Count: 0 | Size in px(72ppi): (298, 420) | Pages: set()
+Format: A5 | Count: 0 | Size in px(72ppi): (420, 595) | Pages: set()
+Format: A4 | Count: 1 | Size in px(72ppi): (595, 842) | Pages: {1}
+Format: A3 | Count: 7 | Size in px(72ppi): (842, 1191) | Pages: {4, 5, 6, 7, 8, 9, 10}
+Format: A2 | Count: 3 | Size in px(72ppi): (1191, 1684) | Pages: {25, 2, 26}
+Format: A1 | Count: 0 | Size in px(72ppi): (1684, 2384) | Pages: set()
+Format: A0 | Count: 11 | Size in px(72ppi): (2384, 3370) | Pages: {3, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}
+Format: 2A0 | Count: 2 | Size in px(72ppi): (3370, 4768) | Pages: {24, 22}
+Format: 4A0 | Count: 0 | Size in px(72ppi): (4768, 6741) | Pages: set()
